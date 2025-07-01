@@ -1,5 +1,0 @@
-This is simple text .txt file
-kernel
-linux
-debian
-
