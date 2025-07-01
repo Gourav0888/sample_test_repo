@@ -1,2 +1,2 @@
-Hello, Git sample text file
+Hello, User for git commands
 adding a new line 
