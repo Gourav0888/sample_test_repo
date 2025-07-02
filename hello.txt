@@ -1,2 +1,6 @@
 Hello, User for git commands
 adding a new line 
+hello linux
+hi kernel
+just some lines i am adding 
+
